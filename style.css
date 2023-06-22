@@ -25,6 +25,12 @@ body {
   opacity: 1;
   display: block;
 }
+.navbar {
+  transition: all 0.5s;
+}
+.navbar-scrolled {
+  background-color: black !important;
+}
 .c-item {
   height: 450px;
 }
